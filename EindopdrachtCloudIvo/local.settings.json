@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=eindopdrachtopslag;AccountKey=rweS3a9pa1h7B6Ca4ag4wnb7Kai8pw005ORAyKq1OdVYfU2KLqSvk5GZeLz0adLObxfKiKSwPSPAYsA/ispGiA==;BlobEndpoint=https://eindopdrachtopslag.blob.core.windows.net/;TableEndpoint=https://eindopdrachtopslag.table.core.windows.net/;QueueEndpoint=https://eindopdrachtopslag.queue.core.windows.net/;FileEndpoint=https://eindopdrachtopslag.file.core.windows.net/",
+        "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=eindopdrachtopslag;AccountKey=rweS3a9pa1h7B6Ca4ag4wnb7Kai8pw005ORAyKq1OdVYfU2KLqSvk5GZeLz0adLObxfKiKSwPSPAYsA/ispGiA==;BlobEndpoint=https://eindopdrachtopslag.blob.core.windows.net/;TableEndpoint=https://eindopdrachtopslag.table.core.windows.net/;QueueEndpoint=https://eindopdrachtopslag.queue.core.windows.net/;FileEndpoint=https://eindopdrachtopslag.file.core.windows.net/"
+    }
+}
